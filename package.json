@@ -1,0 +1,62 @@
+{
+    "name": "grunt-optidash",
+    "version": "1.0.0",
+    "description": "Official Grunt plugin for Optidash - AI-powered image optimization and processing API. We will drastically speed-up your websites and save you money on bandwidth and storage.",
+    "license": "MIT",
+    "repository": "optidash-ai/optidash-grunt",
+    "homepage": "https://optidash.ai",
+    "author": {
+        "name": "Optidash UG",
+        "email": "support@optidash.ai",
+        "url": "https://optidash.ai"
+    },
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "optidash",
+        "image",
+        "image optimization",
+        "image processing",
+        "image resizing",
+        "image resizer",
+        "image cropping",
+        "image scaling",
+        "image masking",
+        "image watermarking",
+        "image filtering",
+        "image thumbnails",
+        "pic",
+        "picture",
+        "photo",
+        "face",
+        "face detection",
+        "visual",
+        "watermark",
+        "filter",
+        "crop",
+        "mask",
+        "resize",
+        "resizer",
+        "thumbs",
+        "thumbnail",
+        "thumbnails",
+        "jpg",
+        "jpeg",
+        "png",
+        "gif",
+        "svg",
+        "bmp",
+        "psd",
+        "tiff",
+        "webp",
+        "heic"
+    ],
+    "dependencies": {
+        "async": "^3.2.0",
+        "chalk": "^3.0.0",
+        "optidash": "^1.0.0",
+        "plur": "^3.0.1",
+        "pretty-bytes": "^5.3.0"
+    }
+}
